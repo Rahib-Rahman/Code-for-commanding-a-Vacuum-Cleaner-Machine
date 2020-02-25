@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
 #define mxn 1005
 
+/*
+ * @author Sheikh Md. Rahibur Rahman
+*/
+
 using namespace std;
 
 int row, col;
